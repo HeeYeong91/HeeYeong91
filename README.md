@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=%20HeeYeong's-Github&fontSize=90)
 
 <div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeeYeong91&count_bg=%23FDE3FF&title_bg=%23D3AFEF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+  
   안녕하세요👋 <br />
   BackEnd 개발자가 되기 위해 공부하고 있는 이희영입니다. <br />
   <br />
