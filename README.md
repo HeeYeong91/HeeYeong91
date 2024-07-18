@@ -44,7 +44,7 @@
   <br />
   <br />
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeYeong91&show_icons=true&theme=dark)
+  ![](https://github-readme-stats.vercel.app/api?username=HeeYeong91&show_icons=true&theme=dark)
   <br />
   <br />
   
